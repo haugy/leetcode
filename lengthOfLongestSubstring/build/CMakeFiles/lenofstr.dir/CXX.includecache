@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yang/workspace/leetcode/lengthOfLongestSubstring/lenOfLongestSubstr.cpp
+stdio.h
+-
+string.h
+-
+
