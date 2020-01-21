@@ -202,7 +202,7 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int
     else if (n1_mid == n2_mid){
         return n1_mid;
     }
-
+    return 0;
 }
 
 //test
